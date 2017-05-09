@@ -8,6 +8,28 @@ Configurarar proyecto:
     
     git config --global user.email "your_email@youremail.com"
     
+Movernos al directorio donde tenemos el proyecto con cd
+
+Dentro de la carpeta poner:
+    
+    git init
+
+Añadimos todo (Mejor archivo a archivo):
+    git add . 
+
+Creamos el primer comit
+
+    git commit -m "Instruccions basicas Git"
+  
+Cramos un repositorio dentro de Github
+
+Conectar nuestro repositorio local con el github.
+    git remote add origin <url>
+    
+Realizamos un push
+    
+    git push origin master
+
 
 Primer uso de Git Bash
 
@@ -24,6 +46,10 @@ Primer uso de Git Bash
 5. **Push**: Básicamente lo que realiza un push es publicar lo que se encuentra en nuestro servidor local y llevarlo al servidor remoto de Github
 
 6. **Pull**: Trae los cambios de nuestro repositorio remoto y los actualiza al repositorio local.
+
+5. git remote add origin [URL DEL REPOSITORIO EN GITHUB]
+
+6. git push origin master : Es el nombre que se le pone al repositorio remoto al que se conecta.
 
 
 
