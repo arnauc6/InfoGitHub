@@ -58,4 +58,6 @@ Primer uso de Git Bash
 - https://guides.github.com/activities/hello-world/#what
 - https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
 - https://try.github.io/levels/1/challenges/13
-- a
+
+Ignorar archivos:
+- http://aprendegit.com/ignorando-ficheros-en-git-parte-i-formas-de-ignorar-ficheros/
