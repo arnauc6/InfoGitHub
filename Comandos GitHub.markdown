@@ -143,6 +143,12 @@ que no sólo eliminará los archivos reales del disco, sino que también realiza
         
         Success!
         
+- **git clone [url]**: Clonamos un repositorio de github a nuestro repositorio.
+        
+    Ejemplo: 
+        
+        git clone git://github.com/schacon/grit.git
+        
 - **Unión de ramas**
     - Nos movemos a la rama principal:
     
