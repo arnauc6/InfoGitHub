@@ -4,6 +4,8 @@
 ## Descripción
 ![Diagrama](./Imágenes/Diagrama módulos.png)
 
+![GitHub Logo](/Imágenes/Diagrama módulos.png)
+
 Módulo 1 - Extracción y Almacenamiento
 Módulo 2 - WebHook (Servicio Web)
 Módulo 3 - Agente Inteligente (api.ai)
