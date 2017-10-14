@@ -1,13 +1,14 @@
-# Asistente virtual para el acceso a información financiera y presupuestaría de los ayuntamientos
+# Asistente virtual para información económica municipal
 
 
 ## Descripción
+![Diagrama](./Imágenes/Diagrama módulos.png)
 
-Este repositorio contiene el **desarrollo de una experiencia transmedia para los Plenos Municipales**. A partir del caso del Pleno del Ayuntamiento de València se ha generado un formato que cualquier consistorio puede adaptar a sus necesidades.
+Módulo 1 - Extracción y Almacenamiento
+Módulo 2 - WebHook (Servicio Web)
+Módulo 3 - Agente Inteligente (api.ai)
+Módulo 4 – Integración Telegram
 
-El trabajo realizado se concreta en  forma de *Paper Format* a modo de Biblia Transmedia que siente las bases para implementar una estrategia que atraiga a la ciudadanía a los debates sociales del Pleno Municipal, y que los usuarios, la perciban como una experienciaparticipativa.
-
-Se aporta información sobre los Plenos Municipales, el estado del arte del concepto transmedia y sus cualidades, las narrativas transmedia, el funcionamiento de los Plenos Municipales junto a una revisión del comportamiento de lxs usuariss y las audiencias.
 
 
 ## Guía de uso
