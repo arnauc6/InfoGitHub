@@ -41,3 +41,6 @@ El [**Àrea Hackers cívics**](http://civichackers.cc) ha sido impulsada por la 
 El contenido de este repositorio está sujeto a la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+
+[PRUEBA ENLACE](01. Introducción y archivos planos-checkpoint.ipynb)
