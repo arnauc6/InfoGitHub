@@ -43,4 +43,4 @@ El contenido de este repositorio está sujeto a la licencia [Creative Commons At
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
-[PRUEBA ENLACE](01. Introducción y archivos planos-checkpoint.ipynb)
+[PRUEBA ENLACE](https://github.com/arnauc6/InfoGitHub/blob/master/01.%20Introducci%C3%B3n%20y%20archivos%20planos-checkpoint.ipynb)
